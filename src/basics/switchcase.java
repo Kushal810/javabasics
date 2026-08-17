@@ -7,7 +7,7 @@ public class switchcase {
 
         switch (choice)
         {
-            case 1:
+             case 1:
                 System.out.println("Your choice is perfect"+1);
                 break;
             case 2:
