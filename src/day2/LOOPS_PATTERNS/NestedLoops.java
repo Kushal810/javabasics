@@ -1,4 +1,4 @@
-package LOOPS_PATTERNS;
+package day2.LOOPS_PATTERNS;
 
 public class NestedLoops {
     public static void main(String[] args)
@@ -12,3 +12,4 @@ public class NestedLoops {
         }
     }
 }
+
