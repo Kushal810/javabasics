@@ -1,6 +1,7 @@
 package basics;
 
-public class temp {
+public class 
+temp {
 
     public static class DataTypes{
         public void PrintVariable()
