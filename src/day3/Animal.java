@@ -17,7 +17,7 @@ public class Animal {
 
     public static void main(String[] args) {
         Dog d = new Dog();
-        d.eat();   // inherited from Animal
+        d.eat();
         d.bark();
     }
 }
